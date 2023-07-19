@@ -1,0 +1,4 @@
+mp_article001:
+  title: "调试啦！！！"
+  content: "今天又下雨了！"
+  expect: "新增文章成功"

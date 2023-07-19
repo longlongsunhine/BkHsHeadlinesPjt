@@ -1,0 +1,23 @@
+platformName: Android
+#模拟器
+#platformVersion: 7.1
+#deviceName: 127.0.0.1:62001
+
+#真机
+platformVersion: 11
+#udid: 750BBKL22GDN
+deviceName: 7ed40284
+
+appname: base.apk
+appPackage: com.ss.android.article.news
+appActivity: .activity.MainActivity
+noReset: False
+
+# 输入的内容中有中文时，unicodeKeyboard 和 resetKeyboard 都要设置为 True
+unicodeKeyboard: True
+resetKeyboard: True
+# toast内容获取，automationName设置为uiautomator2
+automationName: uiautomator2
+
+ip: 127.0.0.1
+port: 4723

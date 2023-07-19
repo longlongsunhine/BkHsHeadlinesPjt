@@ -1,0 +1,42 @@
+2023-07-19 17:24:53,217 INFO [root] [get_driver.py get_app_driver:70] - start app....
+2023-07-19 17:25:32,373 INFO [root] [get_driver.py get_app_driver:70] - start app....
+2023-07-19 17:25:55,843 INFO [root] [base.py __init__:17] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="2c578d84-97bd-4c67-be4d-8a62e1eedc1c")>
+2023-07-19 17:25:55,845 INFO [root] [base.py __init__:17] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="2c578d84-97bd-4c67-be4d-8a62e1eedc1c")>
+2023-07-19 17:25:56,857 INFO [root] [app_common.py check_personal_infor_pro_guide:12] - 正在调用检测个人信息保护指引弹窗是否出现方法
+2023-07-19 17:25:56,859 INFO [root] [app_base.py app_base_is_exist:13] - 正在调用查找页面是否存在指定元素：('id', 'com.ss.android.article.news:id/ek0') 方法
+2023-07-19 17:25:56,862 INFO [root] [base.py base_find:29] - 正在查找元素：('id', 'com.ss.android.article.news:id/ek0')
+2023-07-19 17:25:56,936 INFO [root] [app_base.py app_base_is_exist:18] - 找到：('id', 'com.ss.android.article.news:id/ek0') 元素！
+2023-07-19 17:25:56,936 INFO [root] [base.py base_click:73] - 正在对：('id', 'com.ss.android.article.news:id/ek0') 元素执行点击操作！
+2023-07-19 17:25:56,937 INFO [root] [base.py base_find:29] - 正在查找元素：('id', 'com.ss.android.article.news:id/ek0')
+2023-07-19 17:25:59,170 INFO [root] [base.py base_click:73] - 正在对：('id', 'com.ss.android.article.news:id/g4f') 元素执行点击操作！
+2023-07-19 17:25:59,170 INFO [root] [base.py base_find:29] - 正在查找元素：('id', 'com.ss.android.article.news:id/g4f')
+2023-07-19 17:25:59,926 INFO [root] [app_common.py check_red_envelope:22] - 正在调用检测红包弹窗是否出现方法
+2023-07-19 17:25:59,927 INFO [root] [app_base.py app_base_is_exist:13] - 正在调用查找页面是否存在指定元素：('id', 'com.ss.android.article.news:id/bkp') 方法
+2023-07-19 17:25:59,928 INFO [root] [base.py base_find:29] - 正在查找元素：('id', 'com.ss.android.article.news:id/bkp')
+2023-07-19 17:26:09,133 INFO [root] [app_base.py app_base_is_exist:23] - 没有找到：('id', 'com.ss.android.article.news:id/bkp') 元素！
+2023-07-19 17:26:09,133 INFO [root] [page_app_login.py page_app_login:56] - 正在调用登录业务方法！phone: 13647468101 pwd: 123456
+2023-07-19 17:26:09,134 INFO [root] [base.py base_click:73] - 正在对：('xpath', "//*[@resource-id='com.ss.android.article.news:id/cxt' and @text='未登录' or @text='我的']") 元素执行点击操作！
+2023-07-19 17:26:09,134 INFO [root] [base.py base_find:29] - 正在查找元素：('xpath', "//*[@resource-id='com.ss.android.article.news:id/cxt' and @text='未登录' or @text='我的']")
+2023-07-19 17:26:09,823 INFO [root] [base.py base_click:73] - 正在对：('xpath', "//*[@content-desc='更多登录方式']") 元素执行点击操作！
+2023-07-19 17:26:09,824 INFO [root] [base.py base_find:29] - 正在查找元素：('xpath', "//*[@content-desc='更多登录方式']")
+2023-07-19 17:26:11,756 INFO [root] [base.py base_click:73] - 正在对：('xpath', "//*[@text='密码登录']") 元素执行点击操作！
+2023-07-19 17:26:11,757 INFO [root] [base.py base_find:29] - 正在查找元素：('xpath', "//*[@text='密码登录']")
+2023-07-19 17:26:12,406 INFO [root] [base.py base_find:29] - 正在查找元素：('id', 'com.ss.android.article.news:id/hx')
+2023-07-19 17:26:13,077 INFO [root] [base.py base_input:59] - 正在对：('id', 'com.ss.android.article.news:id/hx') 元素执行清空操作！
+2023-07-19 17:26:15,464 INFO [root] [base.py base_input:64] - 正在对：('id', 'com.ss.android.article.news:id/hx') 元素执行输入：13647468101 操作！
+2023-07-19 17:26:16,728 INFO [root] [base.py base_find:29] - 正在查找元素：('id', 'com.ss.android.article.news:id/i6')
+2023-07-19 17:26:17,250 INFO [root] [base.py base_input:59] - 正在对：('id', 'com.ss.android.article.news:id/i6') 元素执行清空操作！
+2023-07-19 17:26:19,278 INFO [root] [base.py base_input:64] - 正在对：('id', 'com.ss.android.article.news:id/i6') 元素执行输入：123456 操作！
+2023-07-19 17:26:20,411 INFO [root] [base.py base_click:73] - 正在对：('id', 'com.ss.android.article.news:id/exc') 元素执行点击操作！
+2023-07-19 17:26:20,412 INFO [root] [base.py base_find:29] - 正在查找元素：('id', 'com.ss.android.article.news:id/exc')
+2023-07-19 17:26:22,502 INFO [root] [base.py base_click:73] - 正在对：('id', 'com.ss.android.article.news:id/alq') 元素执行点击操作！
+2023-07-19 17:26:22,502 INFO [root] [base.py base_find:29] - 正在查找元素：('id', 'com.ss.android.article.news:id/alq')
+2023-07-19 17:26:23,621 INFO [root] [app_base.py app_base_is_exist:13] - 正在调用查找页面是否存在指定元素：('xpath', "//*[@resource-id='android:id/button2' and @text='取消']") 方法
+2023-07-19 17:26:23,621 INFO [root] [base.py base_find:29] - 正在查找元素：('xpath', "//*[@resource-id='android:id/button2' and @text='取消']")
+2023-07-19 17:26:26,168 INFO [root] [app_base.py app_base_is_exist:18] - 找到：('xpath', "//*[@resource-id='android:id/button2' and @text='取消']") 元素！
+2023-07-19 17:26:26,168 INFO [root] [base.py base_click:73] - 正在对：('xpath', "//*[@resource-id='android:id/button2' and @text='取消']") 元素执行点击操作！
+2023-07-19 17:26:26,169 INFO [root] [base.py base_find:29] - 正在查找元素：('xpath', "//*[@resource-id='android:id/button2' and @text='取消']")
+2023-07-19 17:26:26,350 INFO [root] [base.py base_click:73] - 正在对：('xpath', "//*[@resource-id='com.ss.android.article.news:id/cxt' and @text='未登录' or @text='我的']") 元素执行点击操作！
+2023-07-19 17:26:26,350 INFO [root] [base.py base_find:29] - 正在查找元素：('xpath', "//*[@resource-id='com.ss.android.article.news:id/cxt' and @text='未登录' or @text='我的']")
+2023-07-19 17:26:27,773 INFO [root] [base.py base_find:29] - 正在查找元素：('id', 'com.ss.android.article.news:id/e7l')
+2023-07-19 17:26:27,911 INFO [root] [base.py base_get_text:83] - 正在对：('id', 'com.ss.android.article.news:id/e7l') 元素获取文本操作！获取的文本值为：sunwlwl

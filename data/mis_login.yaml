@@ -1,0 +1,4 @@
+mis_login001:
+  username: "demo"
+  pwd: "888itcast.CN764%..."
+  expect: "demo"
